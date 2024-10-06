@@ -1,1 +1,1 @@
-Formulário simples criado apenas para lembrar de algumas fuções 
+Formulário simples criado apenas para lembrar de algumas funções 
